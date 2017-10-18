@@ -22,9 +22,13 @@ dependency-reduced-pom.xml
 /bin
 */bin
 *.lnk
+<<<<<<< Updated upstream
 pom.xml.versionsBackup
 .gitignore
 .idea/demo-design-pattern.iml
 .idea/misc.xml
 .idea/modules.xml
 .idea/workspace.xml
+=======
+pom.xml.versionsBackup
+>>>>>>> Stashed changes
